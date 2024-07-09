@@ -1,2 +1,1 @@
-# template-repository-conference
-template repository for conference proceedings
+# Using convolutional neural networks to classify UXO with multicomponent electromagnetic induction data
