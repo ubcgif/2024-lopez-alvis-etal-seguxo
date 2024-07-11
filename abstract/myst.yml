@@ -53,9 +53,9 @@ site:
   template: article-theme
   actions:
     - title: poster
-      url: 2024-alvis-etal-seguxo.png
+      url: abstract/presentation/alvis-2024-seguxo_eposter.pdf
       static: true
     - title: slides
-      url: presentation/alvis-2024-seguxo.pdf
+      url: abstract/presentation/alvis-2024-seguxo.pdf
       static: true
   # domains: []
