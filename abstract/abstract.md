@@ -7,5 +7,3 @@ abstract: |
 
  We tested our approach using field data acquired with the UltraTEMA-4 system in the Sequim Bay marine test site. We found that the CNN results can be affected by spatially and temporally correlated noise remaining in the preprocessed data. Including this systematic noise in our training dataset was crucial to improve our classification results for field data. To tackle this issue, we add a first step in our workflow that uses a CNN to get field data patches without metallic objects and then randomly add those patches containing only “background signal” to our synthetic data. Using this workflow, classification results for the field data show that our approach detects all UXOs and classifies more than 90% as the correct type while also discriminating ~70% of the clutter. A key advantage of our CNN is that, once trained, it may be used to provide real-time classification results on the field.
 ---
-
-![thumbnail](thumbnail.png)

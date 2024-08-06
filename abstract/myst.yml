@@ -52,10 +52,7 @@ project:
 site:
   template: article-theme
   actions:
-    - title: poster
-      url: abstract/presentation/alvis-2024-seguxo_eposter.pdf
-      static: true
-    - title: slides
-      url: abstract/presentation/alvis-2024-seguxo.pdf
+    - title: Slides
+      url: presentation/alvis-2024-seguxo.pdf
       static: true
   # domains: []
